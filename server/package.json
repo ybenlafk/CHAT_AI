@@ -1,10 +1,10 @@
 {
-  "name": "server",
+  "name": "chat-server",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "scripts": {
-    "serve": "nodemon server"
+    "server": "nodemon server"
   },
   "keywords": [],
   "author": "",
